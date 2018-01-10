@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "随心所欲"  
+description: "人生"  
 header-img: "img/semantic.jpg"  
 ---
 
