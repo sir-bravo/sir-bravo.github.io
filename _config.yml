@@ -1,16 +1,16 @@
 # Site settings
-title: 博客名字 # 你的博客名字，可以定义修订
+title: "sir bravo!"
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "人生得意须尽欢"
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "http://sir.bravo.me"  
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  name: "谢根玉" 
+  email: wuxietao123@gmail.com
+  bio: "现在是一名大学生，有感而发，用文章记录自己的生活"
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
@@ -21,7 +21,7 @@ twitter_username:
 github_username: 
 facebook_username: 
 weibo_username: 
-zhihu_username: 
+zhihu_username:谢根玉
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,12 +43,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "你的名字" # 你的名字
+      author: "谢根玉"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
-  provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
+  provider : disqus 
   duoshuo :
     short_name :  # 填写你的 disqus id
   disqus :
