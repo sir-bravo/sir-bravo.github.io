@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "人生得意须尽欢" 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+现在是一名大学生，有感而发，用文章纪录自己的生活！
 
 
 
