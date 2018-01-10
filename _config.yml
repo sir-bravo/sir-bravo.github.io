@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 
 # Defaults for posts
 defaults:
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "谢根玉"
-      header-img: "img/twitter.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/twitter.jpg" 
 
 # Comments 
 comments :
